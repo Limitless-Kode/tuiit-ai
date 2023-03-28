@@ -1,0 +1,4 @@
+python-decouple==3.8
+gspread==5.7.2
+openai==0.27.2
+tweepy==4.13.0
